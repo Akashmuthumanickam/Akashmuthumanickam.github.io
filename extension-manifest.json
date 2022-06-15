@@ -1,8 +1,8 @@
 {
     "icon": "https://components.stage.connect.trimble.com/trimble-connect-project-workspace-api/logo192.png",
-    "title": "React example",
+    "title": "React example - AK",
     "url": "https://akashmuthumanickam.github.io/",
-    "description": "Test react extension",
+    "description": "Test react extension - AK",
     "configCommand": "do_config",
     "enabled": true
 }
